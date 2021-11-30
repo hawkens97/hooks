@@ -1,0 +1,19 @@
+.navBar {
+  margin: 40px 0px;
+  display: flex;
+  justify-content: center;
+}
+.navBar input {
+  width: 500px;
+  border-radius: 25px;
+  border: 1px solid lightgray;
+  color: grey;
+  padding: 8px 0 8px 10px;
+  margin-right: 20px;
+}
+.starSearch {
+  font-size: 40px;
+}
+.nav h1 {
+  color: rgb(31, 141, 160);
+}
